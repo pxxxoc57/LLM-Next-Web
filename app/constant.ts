@@ -330,6 +330,7 @@ const openaiModels = [
   "dall-e-3",
   "o1-mini",
   "o1-preview",
+  "deepseek-chat"
 ];
 
 const googleModels = [
